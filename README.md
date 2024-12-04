@@ -28,6 +28,6 @@
 ![Static Badge](https://img.shields.io/badge/WebStorm-%23000000?style=for-the-badge&logo=webstorm&logoColor=fff)![Static Badge](https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=fff)![Static Badge](https://img.shields.io/badge/Slack-%234A154B?style=for-the-badge&logo=notion&logoColor=fff)![Static Badge](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=fff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teikim98&layout=compact) <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teikim98&show_icons=true&theme=transparent)
+![teikim98's GitHub stats](https://github-readme-stats.vercel.app/api?username=teikim98&show_icons=true&theme=transparent)
 
 
