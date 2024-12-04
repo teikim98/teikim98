@@ -8,7 +8,9 @@
 
 ### SKILLS
 **Languages and Frameworks**
+
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
+
 **Interests**
 
 **Infra/Tools**
