@@ -11,7 +11,7 @@
 ### SKILLS
 **Languages and Frameworks**
 
-![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000000) ![Static Badge](https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=000000) ![Static Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)![Static Badge](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=fff)<br>![Static Badge](https://img.shields.io/badge/svelte-%23FF3E00?style=for-the-badge&logo=svelte&logoColor=fff)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000000) ![Static Badge](https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=000000) ![Static Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js)![Static Badge](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=fff)<br>
 
 
 
